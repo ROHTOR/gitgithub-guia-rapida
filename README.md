@@ -21,6 +21,8 @@
 9. Despedida
 
 
+CAMBIO REALIZADO
+
 <div id="id1"></div>
 
 ## 1 - Instalación
@@ -185,3 +187,8 @@ Esto creará una carpeta con el nombre del proyecto y dentro ya tendremos un pro
 Espero que esta guía les haya servido!
 
 Gracias por mirar y por Aprender!
+
+
+AÑADIDO PARA TRABAJAR CON COMMITS
+
+Esto puede romper nuestro proyecto
