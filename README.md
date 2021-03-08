@@ -192,3 +192,6 @@ Gracias por mirar y por Aprender!
 AÑADIDO PARA TRABAJAR CON COMMITS
 
 Esto puede romper nuestro proyecto
+
+Espero que esta guia les haya servido!
+Gracias por aprender!
